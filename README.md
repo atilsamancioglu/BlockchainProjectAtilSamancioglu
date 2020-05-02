@@ -16,6 +16,16 @@ $ flask run --port 8000
 
 $ python run_app.py
 
+# Usage
+
+Enter your status and your name hit post
+
+Request for mining
+
+Resycnc
+
+Here you go!
+
 # Resources & Tutorials for creating this project:
 
 https://flask.palletsprojects.com/en/1.1.x/quickstart/#routing
@@ -30,3 +40,4 @@ http://hashcash.org/dev/
 
 
 
+![Image description](https://raw.githubusercontent.com/atilsamancioglu/BlockchainProjectAtilSamancioglu/master/Screen%20Shot%202020-05-02%20at%2011.48.46.png)
